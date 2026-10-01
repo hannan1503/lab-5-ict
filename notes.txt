@@ -1,1 +1,1 @@
-GitHub is a web based platfrorm that hosts  git repositoties, letting to store, version and share there code in the cloude
+git provide us cloude based facilities like pull request
