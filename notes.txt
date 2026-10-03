@@ -1,1 +1,2 @@
 git provide us cloude based facilities like pull request
+summary: Git tracks changes, and GitHub lets teams collaborate usin branches and pull requests.
